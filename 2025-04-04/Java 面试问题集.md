@@ -2,7 +2,7 @@
 
 ## 1. Java 中垃圾回收机制中如何判断对象需要回收？常见的 GC 回收算法有哪些？
 
-### [JVM垃圾回收详解（重点）](https://javaguide.cn/java/jvm/jvm-garbage-collection.html)
+##### [JVM垃圾回收详解（重点）](https://javaguide.cn/java/jvm/jvm-garbage-collection.html)
 
 
 
